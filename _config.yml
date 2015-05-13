@@ -21,8 +21,8 @@ description: "»Feeling Responsive« is a responsive theme for Jekyll based on t
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "bbogdan.github.io"
-baseurl: ""
+url: ""
+baseurl: "bbogdan.github.io"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
