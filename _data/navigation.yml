@@ -1,0 +1,28 @@
+- title: Acasa
+  url: "/"
+  side: left
+
+- title: Servicii
+  url: "/servicii/"
+  side: left
+
+- title: "Echipa"
+  url: "/echipa/"
+  side: left
+
+- title: "Clienti"
+  url: "/clienti/"
+  side: left
+
+- title: "Tarife"
+  url: "/tarife/"
+  side: left
+
+
+- title: Conexe
+  url: "/conexe/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
