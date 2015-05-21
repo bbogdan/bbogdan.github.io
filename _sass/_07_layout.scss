@@ -338,8 +338,8 @@ body.video cite { color: #fff; }
 .pr20 { padding-right: 20px !important; }
 
 
-/* CSS positioning for the custom added logo
-----------------------------------------------------------------------*/
+/*/!* CSS positioning for the custom added logo
+----------------------------------------------------------------------*!/
 a.brand-image {
     padding-top: 5px !important;
 }
@@ -359,4 +359,17 @@ img.brand-image{
 }
 span.logo-class {
     font-size: 2em;
+}*/
+
+#logo {
+    float: right;
+}
+span.logo-class {
+    font-size: 2em;
+}
+
+
+img.brand-image{
+    width: 41px;
+    margin-right: 15px;
 }
